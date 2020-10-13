@@ -1,0 +1,39 @@
+
+h1{
+    color: darkgoldenrod;
+    border: solid;
+}
+img{
+   border:solid
+}
+.header{
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+}
+.about{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+.camel{
+    background-color: cyan;
+    
+}
+.chameleon{
+    background-color: yellow;
+}
+.pigeon{
+    background-color: yellowgreen;
+}
+h1{
+    color:crimson;
+    border: solid;
+}
+p{
+    color:chartreuse;
+    border: solid;
+}
+.me{
+    background-color: violet;
+}
